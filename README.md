@@ -31,14 +31,6 @@ Outside of code I work as a filmmaker, musician, and writer. I believe good prod
 **Currently learning** — Firebase, state management in Flutter
  
 ---
- 
-## A bit more
- 
-Filmmaker · Musician · Writer · Photographer · Dancer  
-I approach everything I make — apps, films, songs — as a founder would: with a clear point of view and a big goal in mind.
- 
----
- 
 ---
  
 ## Explored & retired
