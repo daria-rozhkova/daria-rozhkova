@@ -28,6 +28,7 @@ Outside of code I work as a filmmaker, musician, and writer. I believe good prod
  
 **Mobile** — Flutter, Dart  
 **Design** — Figma, Framer  
+**Workflow** — AI-assisted development (Claude)  
 **Currently learning** — Firebase, state management in Flutter
  
 ---
